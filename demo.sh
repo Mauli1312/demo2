@@ -1,1 +1,1 @@
-echo 'this is just for sample'
+echo 'this is just for sample purpose'
